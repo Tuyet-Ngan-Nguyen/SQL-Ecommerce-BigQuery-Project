@@ -128,7 +128,7 @@ WHERE totals.transactions IS NOT NULL AND productRevenue IS NOT NULL
 GROUP BY month
 ```
 * Query result
-  ![image](https://i.postimg.cc/SjFgK2Qx/Screen-Shot-2023-07-21-at-13-54-11.png)
+  ![image](https://i.postimg.cc/g0zNrLRg/Screen-Shot-2023-07-21-at-14-02-24.png)
 #### Query 07 Products purchased by customers who purchased product A (Classic Ecommerce)
 * SQL code
 ```
