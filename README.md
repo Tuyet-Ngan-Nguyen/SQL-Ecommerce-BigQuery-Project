@@ -18,5 +18,5 @@ The eCommerce dataset is stored in a public Google BigQuery dataset. To access t
 In this project, I will write 08 query in Bigquery base on Google Analytics dataset
 Query 01: Calculate total visit, pageview, transaction and revenue for January, February and March 2017 order by month
 - SQL code
-  ![image]('https://www.flickr.com/photos/198784333@N07/53061106258/in/dateposted-public/')
-- Query result
+  ![image](https://www.flickr.com/photos/198784333@N07/53061106258/in/dateposted-public/)
+- Query res
